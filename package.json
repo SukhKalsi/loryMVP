@@ -1,0 +1,27 @@
+{
+  "name": "lory-mvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukhKalsi/loryMVP.git"
+  },
+  "author": "Sukh Kalsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SukhKalsi/loryMVP/issues"
+  },
+  "homepage": "https://github.com/SukhKalsi/loryMVP#readme",
+  "dependencies": {
+    "iscroll": "^5.2.0",
+    "lory.js": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^5.0.0",
+    "webpack": "^1.13.2"
+  }
+}
